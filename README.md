@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning backend programming with Python
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with freelance projects
-- 💬 Ask me how was my day!
+- 💬 Ask me how my day was!
 - 📫 How to reach me: matheusvialves@outlook.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can juggle
+- ⚡ Fun fact: I can juggle 🤹
 
 Currently living in Distrito Federal 🇧🇷, I'm an IT student on Escola Técnica de Brasília.
 
