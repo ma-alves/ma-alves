@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Fantasie](https://github.com/ma-alves/fantasie)
+- 🔭 I’m currently working on [Huhu](https://github.com/ma-alves/huhu)
 - 🌱 I’m currently learning backend programming with Python
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with freelance projects
