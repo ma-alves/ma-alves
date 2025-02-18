@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Huhu](https://github.com/ma-alves/huhu)
-- 🌱 I’m currently learning backend programming with Python
+- 🔭 I’m currently working on [Huhu](https://github.com/ma-alves/huhu) and a CLI project using clap
+- 🌱 I’m currently learning backend programming in Python and Rust
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with freelance projects
 - 💬 Ask me how my day was!
 - 📫 How to reach me: matheusvialves@outlook.com
 - 😄 Pronouns: he/him
