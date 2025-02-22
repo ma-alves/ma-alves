@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Huhu](https://github.com/ma-alves/huhu) and a Rust CLI project using clap
-- 🌱 I’m currently learning Rust
+- 🔭 I’m currently working on [buhtig](https://github.com/ma-alves/buhtig)
+- 🌱 I’m currently learning Rust, Java Spring and Scrum
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: matheusvialves@outlook.com
 
