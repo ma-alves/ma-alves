@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: matheusvialves@outlook.com
 
-Currently living in Distrito Federal 🇧🇷, I'm an IT student on Escola Técnica de Brasília.
+Currently living in Distrito Federal 🇧🇷.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-alves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
