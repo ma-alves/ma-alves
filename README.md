@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [clairo](https://github.com/ma-alves/clairo) and [buhtig](https://github.com/ma-alves/buhtig)
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: matheusvialves@outlook.com
 
