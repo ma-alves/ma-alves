@@ -1,10 +1,10 @@
-### Hi there 👋
+### Olá 👋
 
-- 🔭 I’m currently working on [clairo](https://github.com/ma-alves/clairo) and [buhtig](https://github.com/ma-alves/buhtig)
-- 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me: matheusvialves@outlook.com
+- 🔭 Atualmente trabalhando no meu projeto de portfólio [clairo](https://github.com/ma-alves/clairo)
+- 🌱 Aprendendo Node.js
+- 👯 Futuramente quero colaborar em projetos open source
+- 📫 Contato: matheusvialves@outlook.com
 
-Currently living in Distrito Federal 🇧🇷
+Atualmente morando no Distrito Federal 🇧🇷
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-alves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-alves)](https://github.com/anuraghazra/github-readme-stats)
