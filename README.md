@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 🔭 Atualmente trabalhando no meu projeto de portfólio [clairo](https://github.com/ma-alves/clairo)
+- 🔭 Atualmente trabalhando no meu projeto de portfólio [papo](https://github.com/ma-alves/papo)
 - 🌱 Aprendendo Node.js
 - 👯 Futuramente quero colaborar em projetos open source
 - 📫 Contato: matheusvialves@outlook.com
