@@ -1,9 +1,10 @@
-### Olá 👋
+### Opa, tudo bom? 👋
 
-- 🔭 Atualmente trabalhando no meu projeto de portfólio [papo](https://github.com/ma-alves/papo)
-- 🌱 Aprendendo Node.js
-- 👯 Futuramente quero colaborar em projetos open source
-- 📫 Contato: matheusvialves@outlook.com
+- 🔭 Trabalhando no projeto [url-shortener](https://github.com/ma-alves/url-shortener)
+- 🌱 Aprendendo AWS
+- 👯 Meu sonho é colaborar em projetos open source
+- 📫 Contato: matheusvialves@proton.me
+- 🖌️ Portfólio: [ma-alves.github.io](ma-alves.github.io)
 
 Atualmente morando no Distrito Federal 🇧🇷
 
