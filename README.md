@@ -1,7 +1,7 @@
 ### Opa, tudo bom? 👋
 
-- 🔭 Trabalhando no projeto [url-shortener](https://github.com/ma-alves/url-shortener)
-- 🌱 Aprendendo AWS
+- 🔭 Trabalhando nos projetos [url-shortener](https://github.com/ma-alves/url-shortener) e [e-commerce](https://github.com/ma-alves/e-commerce-microservices)
+- 🌱 Aprendendo TypeScript
 - 👯 Meu sonho é colaborar em projetos open source
 - 📫 Contato: matheusvialves@proton.me
 - 🖌️ Portfólio: [ma-alves.github.io](ma-alves.github.io)
