@@ -1,11 +1,11 @@
 ### Opa, tudo bom? 👋
 
-- 🔭 Trabalhando nos projetos [url-shortener](https://github.com/ma-alves/url-shortener) e [e-commerce](https://github.com/ma-alves/e-commerce-microservices)
+- 🔭 Trabalhando no projeto didático [e-commerce](https://github.com/ma-alves/e-commerce-microservices) e freelancing
 - 🌱 Aprendendo TypeScript
-- 👯 Meu sonho é colaborar em projetos open source
+- 👯 Sonho em colaborar em projetos open source
 - 📫 Contato: matheusvialves@proton.me
 - 🖌️ Portfólio: [ma-alves.github.io](ma-alves.github.io)
 
-Atualmente morando no Distrito Federal 🇧🇷
+Atualmente morando no Distrito Federal 🇧🇷 e as principais informações sobre meu perfil profissional estão disponíveis no meu [LinkedIn](https://www.linkedin.com/in/matheusvialves/)!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-alves)](https://github.com/anuraghazra/github-readme-stats)
+Aqui o espaço é dedicado a código e contribuições são mais do que bem vindas nos meus projetos 🙏
