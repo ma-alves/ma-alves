@@ -4,8 +4,8 @@
 - 🌱 Aprendendo TypeScript
 - 👯 Sonho em colaborar em projetos open source
 - 📫 Contato: matheusvialves@proton.me
-- 🖌️ Portfólio: [ma-alves.github.io](ma-alves.github.io)
+- ⚙️ Mais utilizadas: `.py`, `.js`, `.ts`, `.rs`, `.yaml`
 
-Atualmente morando no Distrito Federal 🇧🇷. As principais informações sobre meu perfil profissional estão disponíveis no meu [LinkedIn](https://www.linkedin.com/in/matheusvialves/)!
+Atualmente morando no Distrito Federal 🇧🇷
 
-Aqui o espaço é dedicado a código e contribuições são mais do que bem vindas nos meus projetos 🙏
+[![GitHub Streak](https://streak-stats.demolab.com?user=ma-alves&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
