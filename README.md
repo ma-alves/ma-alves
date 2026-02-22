@@ -1,6 +1,6 @@
 ### Opa, tudo bom? 👋
 
-- 🔭 Trabalhando no projeto [payroll](https://github.com/ma-alves/payroll)
+- 🔭 Trabalhando no projeto [e-commerce](https://github.com/ma-alves/e-commerce)
 - 🌱 Aprendendo TypeScript
 - 👯 Sonho em colaborar em projetos open source
 - 📫 Contato: matheusvialves@proton.me
