@@ -1,10 +1,10 @@
 ### Opa, tudo bom? 👋
 
-- 🔭 Trabalhando no projeto [e-commerce](https://github.com/ma-alves/e-commerce)
-- 🌱 Aprendendo TypeScript
+- 🔭 Trabalhando no projeto didático [e-commerce](https://github.com/ma-alves/e-commerce)
+- 🌱 Aprendendo [ratatui](https://ratatui.rs/)
 - 👯 Sonho em colaborar em projetos open source
 - 📫 Contato: matheusvialves@proton.me
-- ⚙️ Mais utilizadas: `.py`, `.js`, `.ts`, `.rs`, `.yaml`
+- ⚙️ Mais utilizadas: `.py`, `.ts`, `.js`, `.rs`, `.yaml`
 
 Atualmente morando no Distrito Federal 🇧🇷
 
