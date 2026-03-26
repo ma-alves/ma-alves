@@ -1,7 +1,7 @@
 ### Opa, tudo bom? 👋
 
 - 🔭 Trabalhando no projeto didático [e-commerce](https://github.com/ma-alves/e-commerce)
-- 🌱 Aprendendo sobre CI/CD e Neovim
+- 🌱 Aprendendo sobre Spring Boot
 - 👯 Sonho em colaborar em projetos open source
 - 📫 Contato: matheusvialves@proton.me
 - ⚙️ Mais utilizadas: `.py`, `.ts`, `.js`, `.rs`, `.yaml`
