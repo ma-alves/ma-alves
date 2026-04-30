@@ -1,7 +1,7 @@
 ### Opa, tudo bom?
 
-- 🔭 Trabalhando no projeto de portfólio [Costume Rental API](https://github.com/ma-alves/costume-rental-api)
-- 🌱 Aprendendo Spring Boot e lendo Fundamentals of Software Engineering
+- 🔭 Trabalhando em projetos pessoais didáticos e voluntariando ❤️
+- 🌱 Me aprofundando em Spring e lendo Fundamentals of Software Engineering
 - 👯 Sonho em colaborar em projetos open source
 - 📫 Contato: matheusvialves@proton.me
 - ⚙️ Mais utilizadas: `.py`, `.java`, `.ts`, `.rs`, `.yaml`
