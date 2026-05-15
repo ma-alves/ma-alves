@@ -9,7 +9,7 @@
 ### Recrutador(a) 👋
 READMEs que te interessam:
 - [Costume Rental API](https://github.com/ma-alves/costume-rental-api) - em inglês
-- [Papo](https://github.com/ma-alves/papo)
+- [Papo - Chat App](https://github.com/ma-alves/papo)
 - [URL Shortener](https://github.com/ma-alves/url-shortener)
 
 ### Skills
