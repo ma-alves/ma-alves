@@ -2,9 +2,10 @@
 
 ### Recrutador(a) 👋
 READMEs que te interessam: 
-- [Costume Rental - RESTful API](https://github.com/ma-alves/costume-rental-api) - em inglês 
+- [Costume Rental - RESTful API](https://github.com/ma-alves/costume-rental-api) 
 - [Papo - Live Chat App](https://github.com/ma-alves/papo) 
 - [URL Shortener - Sistema Escalável](https://github.com/ma-alves/url-shortener)
+- [Digest - Tech Newsletter](https://github.com/ma-alves/digest) (em progresso)
 
 🔭 Trabalhando em projetos de portfólio e voluntariando \
 🌱 Aprendendo AWS e lendo Fundamentals of Software Engineering \
