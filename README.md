@@ -1,6 +1,6 @@
 ### hi!
 
-I like open source projects and going out with my friends. Usually I'm building in `.py` `.ts` `.rs` `.yaml`. 
+I like open source projects and going out with my friends. Usually I'm building in `.py` `.ts` `.rs` `.yaml`. Working on [igno](https://github.com/ma-alves/igno).
 
 #### projects
 [Costume Rental - RESTful API](https://github.com/ma-alves/costume-rental-api) \
