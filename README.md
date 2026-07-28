@@ -1,6 +1,7 @@
 ### hi!
 
-I like open source projects and going out with my friends. Usually I'm building in `.py` `.ts` `.rs` `.yaml`. Working on [igno](https://github.com/ma-alves/igno).
+I like open source projects and going out with my friends. \
+Usually I'm building in `.py` `.ts` `.rs` `.yaml`. Working on [igno](https://github.com/ma-alves/igno).
 
 #### projects
 [Costume Rental - RESTful API](https://github.com/ma-alves/costume-rental-api) \
@@ -10,6 +11,3 @@ I like open source projects and going out with my friends. Usually I'm building 
 
 #### skills
 [![My Skills](https://skillicons.dev/icons?i=fastapi,django,nodejs,express,spring,rust,docker,githubactions,aws,linux,postgres,redis&perline=6)](https://skillicons.dev)
-
-#### streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=ma-alves&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
